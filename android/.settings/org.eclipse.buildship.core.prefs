@@ -1,2 +1,13 @@
-#Mon Mar 26 15:51:11 IST 2018
+arguments=--init-script /var/folders/nj/923tjm6x6xg896dhx3mt1jpr0000gn/T/init11931524787574746468.gradle --init-script /var/folders/nj/923tjm6x6xg896dhx3mt1jpr0000gn/T/init6966257776499425883.gradle
+auto.sync=false
+build.scans.enabled=false
+connection.gradle.distribution=GRADLE_DISTRIBUTION(WRAPPER)
 connection.project.dir=
+eclipse.preferences.version=1
+gradle.user.home=
+java.home=/opt/homebrew/Cellar/openjdk/19/libexec/openjdk.jdk/Contents/Home
+jvm.arguments=
+offline.mode=false
+override.workspace.settings=true
+show.console.view=true
+show.executions.view=true
